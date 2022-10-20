@@ -1,6 +1,4 @@
-# color_flipper
-
-<h1 align="center">Hi there</h1>
+<h1 align="center">Color Flipper</h1>
 
 - 🔭 Here a small color flipper project in javascript.
 There is a simple predefined array of color for the "simple" one and a random hex color background.
